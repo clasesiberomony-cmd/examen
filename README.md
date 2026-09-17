@@ -15,3 +15,5 @@ Mónica Carolina Aguiñaga González
 ## Estado del proyecto 
  
 Proyecto en etapa inicial. 
+## Control de versiones 
+El proyecto utiliza Git para control de versiones y GitHub como repositorio remoto. 
